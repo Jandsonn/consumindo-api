@@ -13,7 +13,7 @@ Integração com uma API RESTful.
 
 Como Executar:
 1- Clone o repositório:
-git clone https://gi1thub.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Jandsonn/consumindo-api.git
 2- instale as dependências:
 npm install
 3- Inicie o projeto:
