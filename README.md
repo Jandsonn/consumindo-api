@@ -18,3 +18,5 @@ git clone https://gi1thub.com/seu-usuario/seu-repositorio.git
 npm install
 3- Inicie o projeto:
 npm start
+4- Antes de todos esses passos execute a instalação do npm:
+npm install -y
